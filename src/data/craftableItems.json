@@ -1,0 +1,6887 @@
+[
+  {
+    "id": "T3_SWORD",
+    "key": "SWORD",
+    "name": "Sword",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword (T3)"
+  },
+  {
+    "id": "T3_SWORD@1",
+    "key": "SWORD",
+    "name": "Sword +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +1 (T3)"
+  },
+  {
+    "id": "T3_SWORD@2",
+    "key": "SWORD",
+    "name": "Sword +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +2 (T3)"
+  },
+  {
+    "id": "T3_SWORD@3",
+    "key": "SWORD",
+    "name": "Sword +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +3 (T3)"
+  },
+  {
+    "id": "T3_SWORD@4",
+    "key": "SWORD",
+    "name": "Sword +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +4 (T3)"
+  },
+  {
+    "id": "T3_MACE",
+    "key": "MACE",
+    "name": "Mace",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace (T3)"
+  },
+  {
+    "id": "T3_MACE@1",
+    "key": "MACE",
+    "name": "Mace +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +1 (T3)"
+  },
+  {
+    "id": "T3_MACE@2",
+    "key": "MACE",
+    "name": "Mace +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +2 (T3)"
+  },
+  {
+    "id": "T3_MACE@3",
+    "key": "MACE",
+    "name": "Mace +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +3 (T3)"
+  },
+  {
+    "id": "T3_MACE@4",
+    "key": "MACE",
+    "name": "Mace +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +4 (T3)"
+  },
+  {
+    "id": "T3_AXE",
+    "key": "AXE",
+    "name": "Axe",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe (T3)"
+  },
+  {
+    "id": "T3_AXE@1",
+    "key": "AXE",
+    "name": "Axe +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +1 (T3)"
+  },
+  {
+    "id": "T3_AXE@2",
+    "key": "AXE",
+    "name": "Axe +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +2 (T3)"
+  },
+  {
+    "id": "T3_AXE@3",
+    "key": "AXE",
+    "name": "Axe +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +3 (T3)"
+  },
+  {
+    "id": "T3_AXE@4",
+    "key": "AXE",
+    "name": "Axe +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +4 (T3)"
+  },
+  {
+    "id": "T3_DAGGER",
+    "key": "DAGGER",
+    "name": "Dagger",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger (T3)"
+  },
+  {
+    "id": "T3_DAGGER@1",
+    "key": "DAGGER",
+    "name": "Dagger +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +1 (T3)"
+  },
+  {
+    "id": "T3_DAGGER@2",
+    "key": "DAGGER",
+    "name": "Dagger +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +2 (T3)"
+  },
+  {
+    "id": "T3_DAGGER@3",
+    "key": "DAGGER",
+    "name": "Dagger +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +3 (T3)"
+  },
+  {
+    "id": "T3_DAGGER@4",
+    "key": "DAGGER",
+    "name": "Dagger +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +4 (T3)"
+  },
+  {
+    "id": "T3_RAPIER",
+    "key": "RAPIER",
+    "name": "Rapier",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier (T3)"
+  },
+  {
+    "id": "T3_RAPIER@1",
+    "key": "RAPIER",
+    "name": "Rapier +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +1 (T3)"
+  },
+  {
+    "id": "T3_RAPIER@2",
+    "key": "RAPIER",
+    "name": "Rapier +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +2 (T3)"
+  },
+  {
+    "id": "T3_RAPIER@3",
+    "key": "RAPIER",
+    "name": "Rapier +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +3 (T3)"
+  },
+  {
+    "id": "T3_RAPIER@4",
+    "key": "RAPIER",
+    "name": "Rapier +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +4 (T3)"
+  },
+  {
+    "id": "T3_CLUB",
+    "key": "CLUB",
+    "name": "Club",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club (T3)"
+  },
+  {
+    "id": "T3_CLUB@1",
+    "key": "CLUB",
+    "name": "Club +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +1 (T3)"
+  },
+  {
+    "id": "T3_CLUB@2",
+    "key": "CLUB",
+    "name": "Club +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +2 (T3)"
+  },
+  {
+    "id": "T3_CLUB@3",
+    "key": "CLUB",
+    "name": "Club +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +3 (T3)"
+  },
+  {
+    "id": "T3_CLUB@4",
+    "key": "CLUB",
+    "name": "Club +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +4 (T3)"
+  },
+  {
+    "id": "T3_HAMMER",
+    "key": "HAMMER",
+    "name": "Hammer",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer (T3)"
+  },
+  {
+    "id": "T3_HAMMER@1",
+    "key": "HAMMER",
+    "name": "Hammer +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +1 (T3)"
+  },
+  {
+    "id": "T3_HAMMER@2",
+    "key": "HAMMER",
+    "name": "Hammer +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +2 (T3)"
+  },
+  {
+    "id": "T3_HAMMER@3",
+    "key": "HAMMER",
+    "name": "Hammer +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +3 (T3)"
+  },
+  {
+    "id": "T3_HAMMER@4",
+    "key": "HAMMER",
+    "name": "Hammer +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +4 (T3)"
+  },
+  {
+    "id": "T4_SWORD",
+    "key": "SWORD",
+    "name": "Sword",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword (T4)"
+  },
+  {
+    "id": "T4_SWORD@1",
+    "key": "SWORD",
+    "name": "Sword +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +1 (T4)"
+  },
+  {
+    "id": "T4_SWORD@2",
+    "key": "SWORD",
+    "name": "Sword +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +2 (T4)"
+  },
+  {
+    "id": "T4_SWORD@3",
+    "key": "SWORD",
+    "name": "Sword +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +3 (T4)"
+  },
+  {
+    "id": "T4_SWORD@4",
+    "key": "SWORD",
+    "name": "Sword +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +4 (T4)"
+  },
+  {
+    "id": "T4_MACE",
+    "key": "MACE",
+    "name": "Mace",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace (T4)"
+  },
+  {
+    "id": "T4_MACE@1",
+    "key": "MACE",
+    "name": "Mace +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +1 (T4)"
+  },
+  {
+    "id": "T4_MACE@2",
+    "key": "MACE",
+    "name": "Mace +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +2 (T4)"
+  },
+  {
+    "id": "T4_MACE@3",
+    "key": "MACE",
+    "name": "Mace +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +3 (T4)"
+  },
+  {
+    "id": "T4_MACE@4",
+    "key": "MACE",
+    "name": "Mace +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +4 (T4)"
+  },
+  {
+    "id": "T4_AXE",
+    "key": "AXE",
+    "name": "Axe",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe (T4)"
+  },
+  {
+    "id": "T4_AXE@1",
+    "key": "AXE",
+    "name": "Axe +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +1 (T4)"
+  },
+  {
+    "id": "T4_AXE@2",
+    "key": "AXE",
+    "name": "Axe +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +2 (T4)"
+  },
+  {
+    "id": "T4_AXE@3",
+    "key": "AXE",
+    "name": "Axe +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +3 (T4)"
+  },
+  {
+    "id": "T4_AXE@4",
+    "key": "AXE",
+    "name": "Axe +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +4 (T4)"
+  },
+  {
+    "id": "T4_DAGGER",
+    "key": "DAGGER",
+    "name": "Dagger",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger (T4)"
+  },
+  {
+    "id": "T4_DAGGER@1",
+    "key": "DAGGER",
+    "name": "Dagger +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +1 (T4)"
+  },
+  {
+    "id": "T4_DAGGER@2",
+    "key": "DAGGER",
+    "name": "Dagger +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +2 (T4)"
+  },
+  {
+    "id": "T4_DAGGER@3",
+    "key": "DAGGER",
+    "name": "Dagger +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +3 (T4)"
+  },
+  {
+    "id": "T4_DAGGER@4",
+    "key": "DAGGER",
+    "name": "Dagger +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +4 (T4)"
+  },
+  {
+    "id": "T4_RAPIER",
+    "key": "RAPIER",
+    "name": "Rapier",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier (T4)"
+  },
+  {
+    "id": "T4_RAPIER@1",
+    "key": "RAPIER",
+    "name": "Rapier +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +1 (T4)"
+  },
+  {
+    "id": "T4_RAPIER@2",
+    "key": "RAPIER",
+    "name": "Rapier +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +2 (T4)"
+  },
+  {
+    "id": "T4_RAPIER@3",
+    "key": "RAPIER",
+    "name": "Rapier +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +3 (T4)"
+  },
+  {
+    "id": "T4_RAPIER@4",
+    "key": "RAPIER",
+    "name": "Rapier +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +4 (T4)"
+  },
+  {
+    "id": "T4_CLUB",
+    "key": "CLUB",
+    "name": "Club",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club (T4)"
+  },
+  {
+    "id": "T4_CLUB@1",
+    "key": "CLUB",
+    "name": "Club +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +1 (T4)"
+  },
+  {
+    "id": "T4_CLUB@2",
+    "key": "CLUB",
+    "name": "Club +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +2 (T4)"
+  },
+  {
+    "id": "T4_CLUB@3",
+    "key": "CLUB",
+    "name": "Club +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +3 (T4)"
+  },
+  {
+    "id": "T4_CLUB@4",
+    "key": "CLUB",
+    "name": "Club +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +4 (T4)"
+  },
+  {
+    "id": "T4_HAMMER",
+    "key": "HAMMER",
+    "name": "Hammer",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer (T4)"
+  },
+  {
+    "id": "T4_HAMMER@1",
+    "key": "HAMMER",
+    "name": "Hammer +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +1 (T4)"
+  },
+  {
+    "id": "T4_HAMMER@2",
+    "key": "HAMMER",
+    "name": "Hammer +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +2 (T4)"
+  },
+  {
+    "id": "T4_HAMMER@3",
+    "key": "HAMMER",
+    "name": "Hammer +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +3 (T4)"
+  },
+  {
+    "id": "T4_HAMMER@4",
+    "key": "HAMMER",
+    "name": "Hammer +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +4 (T4)"
+  },
+  {
+    "id": "T5_SWORD",
+    "key": "SWORD",
+    "name": "Sword",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword (T5)"
+  },
+  {
+    "id": "T5_SWORD@1",
+    "key": "SWORD",
+    "name": "Sword +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +1 (T5)"
+  },
+  {
+    "id": "T5_SWORD@2",
+    "key": "SWORD",
+    "name": "Sword +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +2 (T5)"
+  },
+  {
+    "id": "T5_SWORD@3",
+    "key": "SWORD",
+    "name": "Sword +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +3 (T5)"
+  },
+  {
+    "id": "T5_SWORD@4",
+    "key": "SWORD",
+    "name": "Sword +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +4 (T5)"
+  },
+  {
+    "id": "T5_MACE",
+    "key": "MACE",
+    "name": "Mace",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace (T5)"
+  },
+  {
+    "id": "T5_MACE@1",
+    "key": "MACE",
+    "name": "Mace +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +1 (T5)"
+  },
+  {
+    "id": "T5_MACE@2",
+    "key": "MACE",
+    "name": "Mace +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +2 (T5)"
+  },
+  {
+    "id": "T5_MACE@3",
+    "key": "MACE",
+    "name": "Mace +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +3 (T5)"
+  },
+  {
+    "id": "T5_MACE@4",
+    "key": "MACE",
+    "name": "Mace +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +4 (T5)"
+  },
+  {
+    "id": "T5_AXE",
+    "key": "AXE",
+    "name": "Axe",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe (T5)"
+  },
+  {
+    "id": "T5_AXE@1",
+    "key": "AXE",
+    "name": "Axe +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +1 (T5)"
+  },
+  {
+    "id": "T5_AXE@2",
+    "key": "AXE",
+    "name": "Axe +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +2 (T5)"
+  },
+  {
+    "id": "T5_AXE@3",
+    "key": "AXE",
+    "name": "Axe +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +3 (T5)"
+  },
+  {
+    "id": "T5_AXE@4",
+    "key": "AXE",
+    "name": "Axe +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +4 (T5)"
+  },
+  {
+    "id": "T5_DAGGER",
+    "key": "DAGGER",
+    "name": "Dagger",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger (T5)"
+  },
+  {
+    "id": "T5_DAGGER@1",
+    "key": "DAGGER",
+    "name": "Dagger +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +1 (T5)"
+  },
+  {
+    "id": "T5_DAGGER@2",
+    "key": "DAGGER",
+    "name": "Dagger +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +2 (T5)"
+  },
+  {
+    "id": "T5_DAGGER@3",
+    "key": "DAGGER",
+    "name": "Dagger +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +3 (T5)"
+  },
+  {
+    "id": "T5_DAGGER@4",
+    "key": "DAGGER",
+    "name": "Dagger +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +4 (T5)"
+  },
+  {
+    "id": "T5_RAPIER",
+    "key": "RAPIER",
+    "name": "Rapier",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier (T5)"
+  },
+  {
+    "id": "T5_RAPIER@1",
+    "key": "RAPIER",
+    "name": "Rapier +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +1 (T5)"
+  },
+  {
+    "id": "T5_RAPIER@2",
+    "key": "RAPIER",
+    "name": "Rapier +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +2 (T5)"
+  },
+  {
+    "id": "T5_RAPIER@3",
+    "key": "RAPIER",
+    "name": "Rapier +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +3 (T5)"
+  },
+  {
+    "id": "T5_RAPIER@4",
+    "key": "RAPIER",
+    "name": "Rapier +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +4 (T5)"
+  },
+  {
+    "id": "T5_CLUB",
+    "key": "CLUB",
+    "name": "Club",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club (T5)"
+  },
+  {
+    "id": "T5_CLUB@1",
+    "key": "CLUB",
+    "name": "Club +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +1 (T5)"
+  },
+  {
+    "id": "T5_CLUB@2",
+    "key": "CLUB",
+    "name": "Club +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +2 (T5)"
+  },
+  {
+    "id": "T5_CLUB@3",
+    "key": "CLUB",
+    "name": "Club +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +3 (T5)"
+  },
+  {
+    "id": "T5_CLUB@4",
+    "key": "CLUB",
+    "name": "Club +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +4 (T5)"
+  },
+  {
+    "id": "T5_HAMMER",
+    "key": "HAMMER",
+    "name": "Hammer",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer (T5)"
+  },
+  {
+    "id": "T5_HAMMER@1",
+    "key": "HAMMER",
+    "name": "Hammer +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +1 (T5)"
+  },
+  {
+    "id": "T5_HAMMER@2",
+    "key": "HAMMER",
+    "name": "Hammer +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +2 (T5)"
+  },
+  {
+    "id": "T5_HAMMER@3",
+    "key": "HAMMER",
+    "name": "Hammer +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +3 (T5)"
+  },
+  {
+    "id": "T5_HAMMER@4",
+    "key": "HAMMER",
+    "name": "Hammer +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +4 (T5)"
+  },
+  {
+    "id": "T6_SWORD",
+    "key": "SWORD",
+    "name": "Sword",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword (T6)"
+  },
+  {
+    "id": "T6_SWORD@1",
+    "key": "SWORD",
+    "name": "Sword +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +1 (T6)"
+  },
+  {
+    "id": "T6_SWORD@2",
+    "key": "SWORD",
+    "name": "Sword +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +2 (T6)"
+  },
+  {
+    "id": "T6_SWORD@3",
+    "key": "SWORD",
+    "name": "Sword +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +3 (T6)"
+  },
+  {
+    "id": "T6_SWORD@4",
+    "key": "SWORD",
+    "name": "Sword +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +4 (T6)"
+  },
+  {
+    "id": "T6_MACE",
+    "key": "MACE",
+    "name": "Mace",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace (T6)"
+  },
+  {
+    "id": "T6_MACE@1",
+    "key": "MACE",
+    "name": "Mace +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +1 (T6)"
+  },
+  {
+    "id": "T6_MACE@2",
+    "key": "MACE",
+    "name": "Mace +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +2 (T6)"
+  },
+  {
+    "id": "T6_MACE@3",
+    "key": "MACE",
+    "name": "Mace +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +3 (T6)"
+  },
+  {
+    "id": "T6_MACE@4",
+    "key": "MACE",
+    "name": "Mace +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +4 (T6)"
+  },
+  {
+    "id": "T6_AXE",
+    "key": "AXE",
+    "name": "Axe",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe (T6)"
+  },
+  {
+    "id": "T6_AXE@1",
+    "key": "AXE",
+    "name": "Axe +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +1 (T6)"
+  },
+  {
+    "id": "T6_AXE@2",
+    "key": "AXE",
+    "name": "Axe +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +2 (T6)"
+  },
+  {
+    "id": "T6_AXE@3",
+    "key": "AXE",
+    "name": "Axe +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +3 (T6)"
+  },
+  {
+    "id": "T6_AXE@4",
+    "key": "AXE",
+    "name": "Axe +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +4 (T6)"
+  },
+  {
+    "id": "T6_DAGGER",
+    "key": "DAGGER",
+    "name": "Dagger",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger (T6)"
+  },
+  {
+    "id": "T6_DAGGER@1",
+    "key": "DAGGER",
+    "name": "Dagger +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +1 (T6)"
+  },
+  {
+    "id": "T6_DAGGER@2",
+    "key": "DAGGER",
+    "name": "Dagger +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +2 (T6)"
+  },
+  {
+    "id": "T6_DAGGER@3",
+    "key": "DAGGER",
+    "name": "Dagger +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +3 (T6)"
+  },
+  {
+    "id": "T6_DAGGER@4",
+    "key": "DAGGER",
+    "name": "Dagger +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +4 (T6)"
+  },
+  {
+    "id": "T6_RAPIER",
+    "key": "RAPIER",
+    "name": "Rapier",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier (T6)"
+  },
+  {
+    "id": "T6_RAPIER@1",
+    "key": "RAPIER",
+    "name": "Rapier +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +1 (T6)"
+  },
+  {
+    "id": "T6_RAPIER@2",
+    "key": "RAPIER",
+    "name": "Rapier +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +2 (T6)"
+  },
+  {
+    "id": "T6_RAPIER@3",
+    "key": "RAPIER",
+    "name": "Rapier +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +3 (T6)"
+  },
+  {
+    "id": "T6_RAPIER@4",
+    "key": "RAPIER",
+    "name": "Rapier +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +4 (T6)"
+  },
+  {
+    "id": "T6_CLUB",
+    "key": "CLUB",
+    "name": "Club",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club (T6)"
+  },
+  {
+    "id": "T6_CLUB@1",
+    "key": "CLUB",
+    "name": "Club +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +1 (T6)"
+  },
+  {
+    "id": "T6_CLUB@2",
+    "key": "CLUB",
+    "name": "Club +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +2 (T6)"
+  },
+  {
+    "id": "T6_CLUB@3",
+    "key": "CLUB",
+    "name": "Club +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +3 (T6)"
+  },
+  {
+    "id": "T6_CLUB@4",
+    "key": "CLUB",
+    "name": "Club +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +4 (T6)"
+  },
+  {
+    "id": "T6_HAMMER",
+    "key": "HAMMER",
+    "name": "Hammer",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer (T6)"
+  },
+  {
+    "id": "T6_HAMMER@1",
+    "key": "HAMMER",
+    "name": "Hammer +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +1 (T6)"
+  },
+  {
+    "id": "T6_HAMMER@2",
+    "key": "HAMMER",
+    "name": "Hammer +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +2 (T6)"
+  },
+  {
+    "id": "T6_HAMMER@3",
+    "key": "HAMMER",
+    "name": "Hammer +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +3 (T6)"
+  },
+  {
+    "id": "T6_HAMMER@4",
+    "key": "HAMMER",
+    "name": "Hammer +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +4 (T6)"
+  },
+  {
+    "id": "T7_SWORD",
+    "key": "SWORD",
+    "name": "Sword",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword (T7)"
+  },
+  {
+    "id": "T7_SWORD@1",
+    "key": "SWORD",
+    "name": "Sword +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +1 (T7)"
+  },
+  {
+    "id": "T7_SWORD@2",
+    "key": "SWORD",
+    "name": "Sword +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +2 (T7)"
+  },
+  {
+    "id": "T7_SWORD@3",
+    "key": "SWORD",
+    "name": "Sword +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +3 (T7)"
+  },
+  {
+    "id": "T7_SWORD@4",
+    "key": "SWORD",
+    "name": "Sword +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +4 (T7)"
+  },
+  {
+    "id": "T7_MACE",
+    "key": "MACE",
+    "name": "Mace",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace (T7)"
+  },
+  {
+    "id": "T7_MACE@1",
+    "key": "MACE",
+    "name": "Mace +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +1 (T7)"
+  },
+  {
+    "id": "T7_MACE@2",
+    "key": "MACE",
+    "name": "Mace +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +2 (T7)"
+  },
+  {
+    "id": "T7_MACE@3",
+    "key": "MACE",
+    "name": "Mace +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +3 (T7)"
+  },
+  {
+    "id": "T7_MACE@4",
+    "key": "MACE",
+    "name": "Mace +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +4 (T7)"
+  },
+  {
+    "id": "T7_AXE",
+    "key": "AXE",
+    "name": "Axe",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe (T7)"
+  },
+  {
+    "id": "T7_AXE@1",
+    "key": "AXE",
+    "name": "Axe +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +1 (T7)"
+  },
+  {
+    "id": "T7_AXE@2",
+    "key": "AXE",
+    "name": "Axe +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +2 (T7)"
+  },
+  {
+    "id": "T7_AXE@3",
+    "key": "AXE",
+    "name": "Axe +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +3 (T7)"
+  },
+  {
+    "id": "T7_AXE@4",
+    "key": "AXE",
+    "name": "Axe +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +4 (T7)"
+  },
+  {
+    "id": "T7_DAGGER",
+    "key": "DAGGER",
+    "name": "Dagger",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger (T7)"
+  },
+  {
+    "id": "T7_DAGGER@1",
+    "key": "DAGGER",
+    "name": "Dagger +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +1 (T7)"
+  },
+  {
+    "id": "T7_DAGGER@2",
+    "key": "DAGGER",
+    "name": "Dagger +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +2 (T7)"
+  },
+  {
+    "id": "T7_DAGGER@3",
+    "key": "DAGGER",
+    "name": "Dagger +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +3 (T7)"
+  },
+  {
+    "id": "T7_DAGGER@4",
+    "key": "DAGGER",
+    "name": "Dagger +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +4 (T7)"
+  },
+  {
+    "id": "T7_RAPIER",
+    "key": "RAPIER",
+    "name": "Rapier",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier (T7)"
+  },
+  {
+    "id": "T7_RAPIER@1",
+    "key": "RAPIER",
+    "name": "Rapier +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +1 (T7)"
+  },
+  {
+    "id": "T7_RAPIER@2",
+    "key": "RAPIER",
+    "name": "Rapier +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +2 (T7)"
+  },
+  {
+    "id": "T7_RAPIER@3",
+    "key": "RAPIER",
+    "name": "Rapier +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +3 (T7)"
+  },
+  {
+    "id": "T7_RAPIER@4",
+    "key": "RAPIER",
+    "name": "Rapier +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +4 (T7)"
+  },
+  {
+    "id": "T7_CLUB",
+    "key": "CLUB",
+    "name": "Club",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club (T7)"
+  },
+  {
+    "id": "T7_CLUB@1",
+    "key": "CLUB",
+    "name": "Club +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +1 (T7)"
+  },
+  {
+    "id": "T7_CLUB@2",
+    "key": "CLUB",
+    "name": "Club +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +2 (T7)"
+  },
+  {
+    "id": "T7_CLUB@3",
+    "key": "CLUB",
+    "name": "Club +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +3 (T7)"
+  },
+  {
+    "id": "T7_CLUB@4",
+    "key": "CLUB",
+    "name": "Club +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +4 (T7)"
+  },
+  {
+    "id": "T7_HAMMER",
+    "key": "HAMMER",
+    "name": "Hammer",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer (T7)"
+  },
+  {
+    "id": "T7_HAMMER@1",
+    "key": "HAMMER",
+    "name": "Hammer +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +1 (T7)"
+  },
+  {
+    "id": "T7_HAMMER@2",
+    "key": "HAMMER",
+    "name": "Hammer +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +2 (T7)"
+  },
+  {
+    "id": "T7_HAMMER@3",
+    "key": "HAMMER",
+    "name": "Hammer +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +3 (T7)"
+  },
+  {
+    "id": "T7_HAMMER@4",
+    "key": "HAMMER",
+    "name": "Hammer +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +4 (T7)"
+  },
+  {
+    "id": "T8_SWORD",
+    "key": "SWORD",
+    "name": "Sword",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword (T8)"
+  },
+  {
+    "id": "T8_SWORD@1",
+    "key": "SWORD",
+    "name": "Sword +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +1 (T8)"
+  },
+  {
+    "id": "T8_SWORD@2",
+    "key": "SWORD",
+    "name": "Sword +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +2 (T8)"
+  },
+  {
+    "id": "T8_SWORD@3",
+    "key": "SWORD",
+    "name": "Sword +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +3 (T8)"
+  },
+  {
+    "id": "T8_SWORD@4",
+    "key": "SWORD",
+    "name": "Sword +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Sword +4 (T8)"
+  },
+  {
+    "id": "T8_MACE",
+    "key": "MACE",
+    "name": "Mace",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace (T8)"
+  },
+  {
+    "id": "T8_MACE@1",
+    "key": "MACE",
+    "name": "Mace +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +1 (T8)"
+  },
+  {
+    "id": "T8_MACE@2",
+    "key": "MACE",
+    "name": "Mace +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +2 (T8)"
+  },
+  {
+    "id": "T8_MACE@3",
+    "key": "MACE",
+    "name": "Mace +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +3 (T8)"
+  },
+  {
+    "id": "T8_MACE@4",
+    "key": "MACE",
+    "name": "Mace +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Mace +4 (T8)"
+  },
+  {
+    "id": "T8_AXE",
+    "key": "AXE",
+    "name": "Axe",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe (T8)"
+  },
+  {
+    "id": "T8_AXE@1",
+    "key": "AXE",
+    "name": "Axe +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +1 (T8)"
+  },
+  {
+    "id": "T8_AXE@2",
+    "key": "AXE",
+    "name": "Axe +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +2 (T8)"
+  },
+  {
+    "id": "T8_AXE@3",
+    "key": "AXE",
+    "name": "Axe +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +3 (T8)"
+  },
+  {
+    "id": "T8_AXE@4",
+    "key": "AXE",
+    "name": "Axe +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Axe +4 (T8)"
+  },
+  {
+    "id": "T8_DAGGER",
+    "key": "DAGGER",
+    "name": "Dagger",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger (T8)"
+  },
+  {
+    "id": "T8_DAGGER@1",
+    "key": "DAGGER",
+    "name": "Dagger +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +1 (T8)"
+  },
+  {
+    "id": "T8_DAGGER@2",
+    "key": "DAGGER",
+    "name": "Dagger +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +2 (T8)"
+  },
+  {
+    "id": "T8_DAGGER@3",
+    "key": "DAGGER",
+    "name": "Dagger +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +3 (T8)"
+  },
+  {
+    "id": "T8_DAGGER@4",
+    "key": "DAGGER",
+    "name": "Dagger +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Dagger +4 (T8)"
+  },
+  {
+    "id": "T8_RAPIER",
+    "key": "RAPIER",
+    "name": "Rapier",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier (T8)"
+  },
+  {
+    "id": "T8_RAPIER@1",
+    "key": "RAPIER",
+    "name": "Rapier +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +1 (T8)"
+  },
+  {
+    "id": "T8_RAPIER@2",
+    "key": "RAPIER",
+    "name": "Rapier +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +2 (T8)"
+  },
+  {
+    "id": "T8_RAPIER@3",
+    "key": "RAPIER",
+    "name": "Rapier +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +3 (T8)"
+  },
+  {
+    "id": "T8_RAPIER@4",
+    "key": "RAPIER",
+    "name": "Rapier +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Rapier +4 (T8)"
+  },
+  {
+    "id": "T8_CLUB",
+    "key": "CLUB",
+    "name": "Club",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club (T8)"
+  },
+  {
+    "id": "T8_CLUB@1",
+    "key": "CLUB",
+    "name": "Club +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +1 (T8)"
+  },
+  {
+    "id": "T8_CLUB@2",
+    "key": "CLUB",
+    "name": "Club +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +2 (T8)"
+  },
+  {
+    "id": "T8_CLUB@3",
+    "key": "CLUB",
+    "name": "Club +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +3 (T8)"
+  },
+  {
+    "id": "T8_CLUB@4",
+    "key": "CLUB",
+    "name": "Club +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Club +4 (T8)"
+  },
+  {
+    "id": "T8_HAMMER",
+    "key": "HAMMER",
+    "name": "Hammer",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer (T8)"
+  },
+  {
+    "id": "T8_HAMMER@1",
+    "key": "HAMMER",
+    "name": "Hammer +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +1 (T8)"
+  },
+  {
+    "id": "T8_HAMMER@2",
+    "key": "HAMMER",
+    "name": "Hammer +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +2 (T8)"
+  },
+  {
+    "id": "T8_HAMMER@3",
+    "key": "HAMMER",
+    "name": "Hammer +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +3 (T8)"
+  },
+  {
+    "id": "T8_HAMMER@4",
+    "key": "HAMMER",
+    "name": "Hammer +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_1H",
+    "prettyName": "Hammer +4 (T8)"
+  },
+  {
+    "id": "T3_GREAT_SWORD",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword (T3)"
+  },
+  {
+    "id": "T3_GREAT_SWORD@1",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +1 (T3)"
+  },
+  {
+    "id": "T3_GREAT_SWORD@2",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +2 (T3)"
+  },
+  {
+    "id": "T3_GREAT_SWORD@3",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +3 (T3)"
+  },
+  {
+    "id": "T3_GREAT_SWORD@4",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +4 (T3)"
+  },
+  {
+    "id": "T3_BATTLE_AXE",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe (T3)"
+  },
+  {
+    "id": "T3_BATTLE_AXE@1",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +1 (T3)"
+  },
+  {
+    "id": "T3_BATTLE_AXE@2",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +2 (T3)"
+  },
+  {
+    "id": "T3_BATTLE_AXE@3",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +3 (T3)"
+  },
+  {
+    "id": "T3_BATTLE_AXE@4",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +4 (T3)"
+  },
+  {
+    "id": "T3_WARHAMMER",
+    "key": "WARHAMMER",
+    "name": "War Hammer",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer (T3)"
+  },
+  {
+    "id": "T3_WARHAMMER@1",
+    "key": "WARHAMMER",
+    "name": "War Hammer +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +1 (T3)"
+  },
+  {
+    "id": "T3_WARHAMMER@2",
+    "key": "WARHAMMER",
+    "name": "War Hammer +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +2 (T3)"
+  },
+  {
+    "id": "T3_WARHAMMER@3",
+    "key": "WARHAMMER",
+    "name": "War Hammer +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +3 (T3)"
+  },
+  {
+    "id": "T3_WARHAMMER@4",
+    "key": "WARHAMMER",
+    "name": "War Hammer +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +4 (T3)"
+  },
+  {
+    "id": "T3_CLAYMORE",
+    "key": "CLAYMORE",
+    "name": "Claymore",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore (T3)"
+  },
+  {
+    "id": "T3_CLAYMORE@1",
+    "key": "CLAYMORE",
+    "name": "Claymore +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +1 (T3)"
+  },
+  {
+    "id": "T3_CLAYMORE@2",
+    "key": "CLAYMORE",
+    "name": "Claymore +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +2 (T3)"
+  },
+  {
+    "id": "T3_CLAYMORE@3",
+    "key": "CLAYMORE",
+    "name": "Claymore +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +3 (T3)"
+  },
+  {
+    "id": "T3_CLAYMORE@4",
+    "key": "CLAYMORE",
+    "name": "Claymore +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +4 (T3)"
+  },
+  {
+    "id": "T3_GREATHAMMER",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer",
+    "tier": 3,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer (T3)"
+  },
+  {
+    "id": "T3_GREATHAMMER@1",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +1 (T3)"
+  },
+  {
+    "id": "T3_GREATHAMMER@2",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +2 (T3)"
+  },
+  {
+    "id": "T3_GREATHAMMER@3",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +3 (T3)"
+  },
+  {
+    "id": "T3_GREATHAMMER@4",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +4 (T3)"
+  },
+  {
+    "id": "T4_GREAT_SWORD",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword (T4)"
+  },
+  {
+    "id": "T4_GREAT_SWORD@1",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +1 (T4)"
+  },
+  {
+    "id": "T4_GREAT_SWORD@2",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +2 (T4)"
+  },
+  {
+    "id": "T4_GREAT_SWORD@3",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +3 (T4)"
+  },
+  {
+    "id": "T4_GREAT_SWORD@4",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +4 (T4)"
+  },
+  {
+    "id": "T4_BATTLE_AXE",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe (T4)"
+  },
+  {
+    "id": "T4_BATTLE_AXE@1",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +1 (T4)"
+  },
+  {
+    "id": "T4_BATTLE_AXE@2",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +2 (T4)"
+  },
+  {
+    "id": "T4_BATTLE_AXE@3",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +3 (T4)"
+  },
+  {
+    "id": "T4_BATTLE_AXE@4",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +4 (T4)"
+  },
+  {
+    "id": "T4_WARHAMMER",
+    "key": "WARHAMMER",
+    "name": "War Hammer",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer (T4)"
+  },
+  {
+    "id": "T4_WARHAMMER@1",
+    "key": "WARHAMMER",
+    "name": "War Hammer +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +1 (T4)"
+  },
+  {
+    "id": "T4_WARHAMMER@2",
+    "key": "WARHAMMER",
+    "name": "War Hammer +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +2 (T4)"
+  },
+  {
+    "id": "T4_WARHAMMER@3",
+    "key": "WARHAMMER",
+    "name": "War Hammer +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +3 (T4)"
+  },
+  {
+    "id": "T4_WARHAMMER@4",
+    "key": "WARHAMMER",
+    "name": "War Hammer +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +4 (T4)"
+  },
+  {
+    "id": "T4_CLAYMORE",
+    "key": "CLAYMORE",
+    "name": "Claymore",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore (T4)"
+  },
+  {
+    "id": "T4_CLAYMORE@1",
+    "key": "CLAYMORE",
+    "name": "Claymore +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +1 (T4)"
+  },
+  {
+    "id": "T4_CLAYMORE@2",
+    "key": "CLAYMORE",
+    "name": "Claymore +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +2 (T4)"
+  },
+  {
+    "id": "T4_CLAYMORE@3",
+    "key": "CLAYMORE",
+    "name": "Claymore +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +3 (T4)"
+  },
+  {
+    "id": "T4_CLAYMORE@4",
+    "key": "CLAYMORE",
+    "name": "Claymore +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +4 (T4)"
+  },
+  {
+    "id": "T4_GREATHAMMER",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer",
+    "tier": 4,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer (T4)"
+  },
+  {
+    "id": "T4_GREATHAMMER@1",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +1 (T4)"
+  },
+  {
+    "id": "T4_GREATHAMMER@2",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +2 (T4)"
+  },
+  {
+    "id": "T4_GREATHAMMER@3",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +3 (T4)"
+  },
+  {
+    "id": "T4_GREATHAMMER@4",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +4 (T4)"
+  },
+  {
+    "id": "T5_GREAT_SWORD",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword (T5)"
+  },
+  {
+    "id": "T5_GREAT_SWORD@1",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +1 (T5)"
+  },
+  {
+    "id": "T5_GREAT_SWORD@2",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +2 (T5)"
+  },
+  {
+    "id": "T5_GREAT_SWORD@3",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +3 (T5)"
+  },
+  {
+    "id": "T5_GREAT_SWORD@4",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +4 (T5)"
+  },
+  {
+    "id": "T5_BATTLE_AXE",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe (T5)"
+  },
+  {
+    "id": "T5_BATTLE_AXE@1",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +1 (T5)"
+  },
+  {
+    "id": "T5_BATTLE_AXE@2",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +2 (T5)"
+  },
+  {
+    "id": "T5_BATTLE_AXE@3",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +3 (T5)"
+  },
+  {
+    "id": "T5_BATTLE_AXE@4",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +4 (T5)"
+  },
+  {
+    "id": "T5_WARHAMMER",
+    "key": "WARHAMMER",
+    "name": "War Hammer",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer (T5)"
+  },
+  {
+    "id": "T5_WARHAMMER@1",
+    "key": "WARHAMMER",
+    "name": "War Hammer +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +1 (T5)"
+  },
+  {
+    "id": "T5_WARHAMMER@2",
+    "key": "WARHAMMER",
+    "name": "War Hammer +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +2 (T5)"
+  },
+  {
+    "id": "T5_WARHAMMER@3",
+    "key": "WARHAMMER",
+    "name": "War Hammer +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +3 (T5)"
+  },
+  {
+    "id": "T5_WARHAMMER@4",
+    "key": "WARHAMMER",
+    "name": "War Hammer +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +4 (T5)"
+  },
+  {
+    "id": "T5_CLAYMORE",
+    "key": "CLAYMORE",
+    "name": "Claymore",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore (T5)"
+  },
+  {
+    "id": "T5_CLAYMORE@1",
+    "key": "CLAYMORE",
+    "name": "Claymore +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +1 (T5)"
+  },
+  {
+    "id": "T5_CLAYMORE@2",
+    "key": "CLAYMORE",
+    "name": "Claymore +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +2 (T5)"
+  },
+  {
+    "id": "T5_CLAYMORE@3",
+    "key": "CLAYMORE",
+    "name": "Claymore +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +3 (T5)"
+  },
+  {
+    "id": "T5_CLAYMORE@4",
+    "key": "CLAYMORE",
+    "name": "Claymore +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +4 (T5)"
+  },
+  {
+    "id": "T5_GREATHAMMER",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer",
+    "tier": 5,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer (T5)"
+  },
+  {
+    "id": "T5_GREATHAMMER@1",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +1 (T5)"
+  },
+  {
+    "id": "T5_GREATHAMMER@2",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +2 (T5)"
+  },
+  {
+    "id": "T5_GREATHAMMER@3",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +3 (T5)"
+  },
+  {
+    "id": "T5_GREATHAMMER@4",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +4 (T5)"
+  },
+  {
+    "id": "T6_GREAT_SWORD",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword (T6)"
+  },
+  {
+    "id": "T6_GREAT_SWORD@1",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +1 (T6)"
+  },
+  {
+    "id": "T6_GREAT_SWORD@2",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +2 (T6)"
+  },
+  {
+    "id": "T6_GREAT_SWORD@3",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +3 (T6)"
+  },
+  {
+    "id": "T6_GREAT_SWORD@4",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +4 (T6)"
+  },
+  {
+    "id": "T6_BATTLE_AXE",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe (T6)"
+  },
+  {
+    "id": "T6_BATTLE_AXE@1",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +1 (T6)"
+  },
+  {
+    "id": "T6_BATTLE_AXE@2",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +2 (T6)"
+  },
+  {
+    "id": "T6_BATTLE_AXE@3",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +3 (T6)"
+  },
+  {
+    "id": "T6_BATTLE_AXE@4",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +4 (T6)"
+  },
+  {
+    "id": "T6_WARHAMMER",
+    "key": "WARHAMMER",
+    "name": "War Hammer",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer (T6)"
+  },
+  {
+    "id": "T6_WARHAMMER@1",
+    "key": "WARHAMMER",
+    "name": "War Hammer +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +1 (T6)"
+  },
+  {
+    "id": "T6_WARHAMMER@2",
+    "key": "WARHAMMER",
+    "name": "War Hammer +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +2 (T6)"
+  },
+  {
+    "id": "T6_WARHAMMER@3",
+    "key": "WARHAMMER",
+    "name": "War Hammer +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +3 (T6)"
+  },
+  {
+    "id": "T6_WARHAMMER@4",
+    "key": "WARHAMMER",
+    "name": "War Hammer +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +4 (T6)"
+  },
+  {
+    "id": "T6_CLAYMORE",
+    "key": "CLAYMORE",
+    "name": "Claymore",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore (T6)"
+  },
+  {
+    "id": "T6_CLAYMORE@1",
+    "key": "CLAYMORE",
+    "name": "Claymore +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +1 (T6)"
+  },
+  {
+    "id": "T6_CLAYMORE@2",
+    "key": "CLAYMORE",
+    "name": "Claymore +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +2 (T6)"
+  },
+  {
+    "id": "T6_CLAYMORE@3",
+    "key": "CLAYMORE",
+    "name": "Claymore +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +3 (T6)"
+  },
+  {
+    "id": "T6_CLAYMORE@4",
+    "key": "CLAYMORE",
+    "name": "Claymore +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +4 (T6)"
+  },
+  {
+    "id": "T6_GREATHAMMER",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer",
+    "tier": 6,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer (T6)"
+  },
+  {
+    "id": "T6_GREATHAMMER@1",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +1 (T6)"
+  },
+  {
+    "id": "T6_GREATHAMMER@2",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +2 (T6)"
+  },
+  {
+    "id": "T6_GREATHAMMER@3",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +3 (T6)"
+  },
+  {
+    "id": "T6_GREATHAMMER@4",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +4 (T6)"
+  },
+  {
+    "id": "T7_GREAT_SWORD",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword (T7)"
+  },
+  {
+    "id": "T7_GREAT_SWORD@1",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +1 (T7)"
+  },
+  {
+    "id": "T7_GREAT_SWORD@2",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +2 (T7)"
+  },
+  {
+    "id": "T7_GREAT_SWORD@3",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +3 (T7)"
+  },
+  {
+    "id": "T7_GREAT_SWORD@4",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +4 (T7)"
+  },
+  {
+    "id": "T7_BATTLE_AXE",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe (T7)"
+  },
+  {
+    "id": "T7_BATTLE_AXE@1",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +1 (T7)"
+  },
+  {
+    "id": "T7_BATTLE_AXE@2",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +2 (T7)"
+  },
+  {
+    "id": "T7_BATTLE_AXE@3",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +3 (T7)"
+  },
+  {
+    "id": "T7_BATTLE_AXE@4",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +4 (T7)"
+  },
+  {
+    "id": "T7_WARHAMMER",
+    "key": "WARHAMMER",
+    "name": "War Hammer",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer (T7)"
+  },
+  {
+    "id": "T7_WARHAMMER@1",
+    "key": "WARHAMMER",
+    "name": "War Hammer +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +1 (T7)"
+  },
+  {
+    "id": "T7_WARHAMMER@2",
+    "key": "WARHAMMER",
+    "name": "War Hammer +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +2 (T7)"
+  },
+  {
+    "id": "T7_WARHAMMER@3",
+    "key": "WARHAMMER",
+    "name": "War Hammer +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +3 (T7)"
+  },
+  {
+    "id": "T7_WARHAMMER@4",
+    "key": "WARHAMMER",
+    "name": "War Hammer +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +4 (T7)"
+  },
+  {
+    "id": "T7_CLAYMORE",
+    "key": "CLAYMORE",
+    "name": "Claymore",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore (T7)"
+  },
+  {
+    "id": "T7_CLAYMORE@1",
+    "key": "CLAYMORE",
+    "name": "Claymore +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +1 (T7)"
+  },
+  {
+    "id": "T7_CLAYMORE@2",
+    "key": "CLAYMORE",
+    "name": "Claymore +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +2 (T7)"
+  },
+  {
+    "id": "T7_CLAYMORE@3",
+    "key": "CLAYMORE",
+    "name": "Claymore +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +3 (T7)"
+  },
+  {
+    "id": "T7_CLAYMORE@4",
+    "key": "CLAYMORE",
+    "name": "Claymore +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +4 (T7)"
+  },
+  {
+    "id": "T7_GREATHAMMER",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer",
+    "tier": 7,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer (T7)"
+  },
+  {
+    "id": "T7_GREATHAMMER@1",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +1 (T7)"
+  },
+  {
+    "id": "T7_GREATHAMMER@2",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +2 (T7)"
+  },
+  {
+    "id": "T7_GREATHAMMER@3",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +3 (T7)"
+  },
+  {
+    "id": "T7_GREATHAMMER@4",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +4 (T7)"
+  },
+  {
+    "id": "T8_GREAT_SWORD",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword (T8)"
+  },
+  {
+    "id": "T8_GREAT_SWORD@1",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +1 (T8)"
+  },
+  {
+    "id": "T8_GREAT_SWORD@2",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +2 (T8)"
+  },
+  {
+    "id": "T8_GREAT_SWORD@3",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +3 (T8)"
+  },
+  {
+    "id": "T8_GREAT_SWORD@4",
+    "key": "GREAT_SWORD",
+    "name": "Great Sword +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Sword +4 (T8)"
+  },
+  {
+    "id": "T8_BATTLE_AXE",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe (T8)"
+  },
+  {
+    "id": "T8_BATTLE_AXE@1",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +1 (T8)"
+  },
+  {
+    "id": "T8_BATTLE_AXE@2",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +2 (T8)"
+  },
+  {
+    "id": "T8_BATTLE_AXE@3",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +3 (T8)"
+  },
+  {
+    "id": "T8_BATTLE_AXE@4",
+    "key": "BATTLE_AXE",
+    "name": "Battle Axe +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Battle Axe +4 (T8)"
+  },
+  {
+    "id": "T8_WARHAMMER",
+    "key": "WARHAMMER",
+    "name": "War Hammer",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer (T8)"
+  },
+  {
+    "id": "T8_WARHAMMER@1",
+    "key": "WARHAMMER",
+    "name": "War Hammer +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +1 (T8)"
+  },
+  {
+    "id": "T8_WARHAMMER@2",
+    "key": "WARHAMMER",
+    "name": "War Hammer +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +2 (T8)"
+  },
+  {
+    "id": "T8_WARHAMMER@3",
+    "key": "WARHAMMER",
+    "name": "War Hammer +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +3 (T8)"
+  },
+  {
+    "id": "T8_WARHAMMER@4",
+    "key": "WARHAMMER",
+    "name": "War Hammer +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "War Hammer +4 (T8)"
+  },
+  {
+    "id": "T8_CLAYMORE",
+    "key": "CLAYMORE",
+    "name": "Claymore",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore (T8)"
+  },
+  {
+    "id": "T8_CLAYMORE@1",
+    "key": "CLAYMORE",
+    "name": "Claymore +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +1 (T8)"
+  },
+  {
+    "id": "T8_CLAYMORE@2",
+    "key": "CLAYMORE",
+    "name": "Claymore +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +2 (T8)"
+  },
+  {
+    "id": "T8_CLAYMORE@3",
+    "key": "CLAYMORE",
+    "name": "Claymore +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +3 (T8)"
+  },
+  {
+    "id": "T8_CLAYMORE@4",
+    "key": "CLAYMORE",
+    "name": "Claymore +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Claymore +4 (T8)"
+  },
+  {
+    "id": "T8_GREATHAMMER",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer",
+    "tier": 8,
+    "enchant": 0,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer (T8)"
+  },
+  {
+    "id": "T8_GREATHAMMER@1",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +1 (T8)"
+  },
+  {
+    "id": "T8_GREATHAMMER@2",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +2 (T8)"
+  },
+  {
+    "id": "T8_GREATHAMMER@3",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +3 (T8)"
+  },
+  {
+    "id": "T8_GREATHAMMER@4",
+    "key": "GREATHAMMER",
+    "name": "Great Hammer +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "WEAPONS_2H",
+    "prettyName": "Great Hammer +4 (T8)"
+  },
+  {
+    "id": "T3_BOW",
+    "key": "BOW",
+    "name": "Bow",
+    "tier": 3,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Bow (T3)"
+  },
+  {
+    "id": "T3_BOW@1",
+    "key": "BOW",
+    "name": "Bow +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Bow +1 (T3)"
+  },
+  {
+    "id": "T3_BOW@2",
+    "key": "BOW",
+    "name": "Bow +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Bow +2 (T3)"
+  },
+  {
+    "id": "T3_BOW@3",
+    "key": "BOW",
+    "name": "Bow +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Bow +3 (T3)"
+  },
+  {
+    "id": "T3_BOW@4",
+    "key": "BOW",
+    "name": "Bow +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Bow +4 (T3)"
+  },
+  {
+    "id": "T3_CROSSBOW",
+    "key": "CROSSBOW",
+    "name": "Crossbow",
+    "tier": 3,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Crossbow (T3)"
+  },
+  {
+    "id": "T3_CROSSBOW@1",
+    "key": "CROSSBOW",
+    "name": "Crossbow +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Crossbow +1 (T3)"
+  },
+  {
+    "id": "T3_CROSSBOW@2",
+    "key": "CROSSBOW",
+    "name": "Crossbow +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Crossbow +2 (T3)"
+  },
+  {
+    "id": "T3_CROSSBOW@3",
+    "key": "CROSSBOW",
+    "name": "Crossbow +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Crossbow +3 (T3)"
+  },
+  {
+    "id": "T3_CROSSBOW@4",
+    "key": "CROSSBOW",
+    "name": "Crossbow +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Crossbow +4 (T3)"
+  },
+  {
+    "id": "T3_FIRE_STAFF",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff",
+    "tier": 3,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Fire Staff (T3)"
+  },
+  {
+    "id": "T3_FIRE_STAFF@1",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +1 (T3)"
+  },
+  {
+    "id": "T3_FIRE_STAFF@2",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +2 (T3)"
+  },
+  {
+    "id": "T3_FIRE_STAFF@3",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +3 (T3)"
+  },
+  {
+    "id": "T3_FIRE_STAFF@4",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +4 (T3)"
+  },
+  {
+    "id": "T3_FROST_STAFF",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff",
+    "tier": 3,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Frost Staff (T3)"
+  },
+  {
+    "id": "T3_FROST_STAFF@1",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +1 (T3)"
+  },
+  {
+    "id": "T3_FROST_STAFF@2",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +2 (T3)"
+  },
+  {
+    "id": "T3_FROST_STAFF@3",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +3 (T3)"
+  },
+  {
+    "id": "T3_FROST_STAFF@4",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +4 (T3)"
+  },
+  {
+    "id": "T3_ARCANE_STAFF",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff",
+    "tier": 3,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff (T3)"
+  },
+  {
+    "id": "T3_ARCANE_STAFF@1",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +1 (T3)"
+  },
+  {
+    "id": "T3_ARCANE_STAFF@2",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +2 (T3)"
+  },
+  {
+    "id": "T3_ARCANE_STAFF@3",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +3 (T3)"
+  },
+  {
+    "id": "T3_ARCANE_STAFF@4",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +4 (T3)"
+  },
+  {
+    "id": "T4_BOW",
+    "key": "BOW",
+    "name": "Bow",
+    "tier": 4,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Bow (T4)"
+  },
+  {
+    "id": "T4_BOW@1",
+    "key": "BOW",
+    "name": "Bow +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Bow +1 (T4)"
+  },
+  {
+    "id": "T4_BOW@2",
+    "key": "BOW",
+    "name": "Bow +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Bow +2 (T4)"
+  },
+  {
+    "id": "T4_BOW@3",
+    "key": "BOW",
+    "name": "Bow +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Bow +3 (T4)"
+  },
+  {
+    "id": "T4_BOW@4",
+    "key": "BOW",
+    "name": "Bow +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Bow +4 (T4)"
+  },
+  {
+    "id": "T4_CROSSBOW",
+    "key": "CROSSBOW",
+    "name": "Crossbow",
+    "tier": 4,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Crossbow (T4)"
+  },
+  {
+    "id": "T4_CROSSBOW@1",
+    "key": "CROSSBOW",
+    "name": "Crossbow +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Crossbow +1 (T4)"
+  },
+  {
+    "id": "T4_CROSSBOW@2",
+    "key": "CROSSBOW",
+    "name": "Crossbow +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Crossbow +2 (T4)"
+  },
+  {
+    "id": "T4_CROSSBOW@3",
+    "key": "CROSSBOW",
+    "name": "Crossbow +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Crossbow +3 (T4)"
+  },
+  {
+    "id": "T4_CROSSBOW@4",
+    "key": "CROSSBOW",
+    "name": "Crossbow +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Crossbow +4 (T4)"
+  },
+  {
+    "id": "T4_FIRE_STAFF",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff",
+    "tier": 4,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Fire Staff (T4)"
+  },
+  {
+    "id": "T4_FIRE_STAFF@1",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +1 (T4)"
+  },
+  {
+    "id": "T4_FIRE_STAFF@2",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +2 (T4)"
+  },
+  {
+    "id": "T4_FIRE_STAFF@3",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +3 (T4)"
+  },
+  {
+    "id": "T4_FIRE_STAFF@4",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +4 (T4)"
+  },
+  {
+    "id": "T4_FROST_STAFF",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff",
+    "tier": 4,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Frost Staff (T4)"
+  },
+  {
+    "id": "T4_FROST_STAFF@1",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +1 (T4)"
+  },
+  {
+    "id": "T4_FROST_STAFF@2",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +2 (T4)"
+  },
+  {
+    "id": "T4_FROST_STAFF@3",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +3 (T4)"
+  },
+  {
+    "id": "T4_FROST_STAFF@4",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +4 (T4)"
+  },
+  {
+    "id": "T4_ARCANE_STAFF",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff",
+    "tier": 4,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff (T4)"
+  },
+  {
+    "id": "T4_ARCANE_STAFF@1",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +1 (T4)"
+  },
+  {
+    "id": "T4_ARCANE_STAFF@2",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +2 (T4)"
+  },
+  {
+    "id": "T4_ARCANE_STAFF@3",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +3 (T4)"
+  },
+  {
+    "id": "T4_ARCANE_STAFF@4",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +4 (T4)"
+  },
+  {
+    "id": "T5_BOW",
+    "key": "BOW",
+    "name": "Bow",
+    "tier": 5,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Bow (T5)"
+  },
+  {
+    "id": "T5_BOW@1",
+    "key": "BOW",
+    "name": "Bow +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Bow +1 (T5)"
+  },
+  {
+    "id": "T5_BOW@2",
+    "key": "BOW",
+    "name": "Bow +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Bow +2 (T5)"
+  },
+  {
+    "id": "T5_BOW@3",
+    "key": "BOW",
+    "name": "Bow +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Bow +3 (T5)"
+  },
+  {
+    "id": "T5_BOW@4",
+    "key": "BOW",
+    "name": "Bow +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Bow +4 (T5)"
+  },
+  {
+    "id": "T5_CROSSBOW",
+    "key": "CROSSBOW",
+    "name": "Crossbow",
+    "tier": 5,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Crossbow (T5)"
+  },
+  {
+    "id": "T5_CROSSBOW@1",
+    "key": "CROSSBOW",
+    "name": "Crossbow +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Crossbow +1 (T5)"
+  },
+  {
+    "id": "T5_CROSSBOW@2",
+    "key": "CROSSBOW",
+    "name": "Crossbow +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Crossbow +2 (T5)"
+  },
+  {
+    "id": "T5_CROSSBOW@3",
+    "key": "CROSSBOW",
+    "name": "Crossbow +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Crossbow +3 (T5)"
+  },
+  {
+    "id": "T5_CROSSBOW@4",
+    "key": "CROSSBOW",
+    "name": "Crossbow +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Crossbow +4 (T5)"
+  },
+  {
+    "id": "T5_FIRE_STAFF",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff",
+    "tier": 5,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Fire Staff (T5)"
+  },
+  {
+    "id": "T5_FIRE_STAFF@1",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +1 (T5)"
+  },
+  {
+    "id": "T5_FIRE_STAFF@2",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +2 (T5)"
+  },
+  {
+    "id": "T5_FIRE_STAFF@3",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +3 (T5)"
+  },
+  {
+    "id": "T5_FIRE_STAFF@4",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +4 (T5)"
+  },
+  {
+    "id": "T5_FROST_STAFF",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff",
+    "tier": 5,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Frost Staff (T5)"
+  },
+  {
+    "id": "T5_FROST_STAFF@1",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +1 (T5)"
+  },
+  {
+    "id": "T5_FROST_STAFF@2",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +2 (T5)"
+  },
+  {
+    "id": "T5_FROST_STAFF@3",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +3 (T5)"
+  },
+  {
+    "id": "T5_FROST_STAFF@4",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +4 (T5)"
+  },
+  {
+    "id": "T5_ARCANE_STAFF",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff",
+    "tier": 5,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff (T5)"
+  },
+  {
+    "id": "T5_ARCANE_STAFF@1",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +1 (T5)"
+  },
+  {
+    "id": "T5_ARCANE_STAFF@2",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +2 (T5)"
+  },
+  {
+    "id": "T5_ARCANE_STAFF@3",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +3 (T5)"
+  },
+  {
+    "id": "T5_ARCANE_STAFF@4",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +4 (T5)"
+  },
+  {
+    "id": "T6_BOW",
+    "key": "BOW",
+    "name": "Bow",
+    "tier": 6,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Bow (T6)"
+  },
+  {
+    "id": "T6_BOW@1",
+    "key": "BOW",
+    "name": "Bow +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Bow +1 (T6)"
+  },
+  {
+    "id": "T6_BOW@2",
+    "key": "BOW",
+    "name": "Bow +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Bow +2 (T6)"
+  },
+  {
+    "id": "T6_BOW@3",
+    "key": "BOW",
+    "name": "Bow +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Bow +3 (T6)"
+  },
+  {
+    "id": "T6_BOW@4",
+    "key": "BOW",
+    "name": "Bow +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Bow +4 (T6)"
+  },
+  {
+    "id": "T6_CROSSBOW",
+    "key": "CROSSBOW",
+    "name": "Crossbow",
+    "tier": 6,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Crossbow (T6)"
+  },
+  {
+    "id": "T6_CROSSBOW@1",
+    "key": "CROSSBOW",
+    "name": "Crossbow +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Crossbow +1 (T6)"
+  },
+  {
+    "id": "T6_CROSSBOW@2",
+    "key": "CROSSBOW",
+    "name": "Crossbow +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Crossbow +2 (T6)"
+  },
+  {
+    "id": "T6_CROSSBOW@3",
+    "key": "CROSSBOW",
+    "name": "Crossbow +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Crossbow +3 (T6)"
+  },
+  {
+    "id": "T6_CROSSBOW@4",
+    "key": "CROSSBOW",
+    "name": "Crossbow +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Crossbow +4 (T6)"
+  },
+  {
+    "id": "T6_FIRE_STAFF",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff",
+    "tier": 6,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Fire Staff (T6)"
+  },
+  {
+    "id": "T6_FIRE_STAFF@1",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +1 (T6)"
+  },
+  {
+    "id": "T6_FIRE_STAFF@2",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +2 (T6)"
+  },
+  {
+    "id": "T6_FIRE_STAFF@3",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +3 (T6)"
+  },
+  {
+    "id": "T6_FIRE_STAFF@4",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +4 (T6)"
+  },
+  {
+    "id": "T6_FROST_STAFF",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff",
+    "tier": 6,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Frost Staff (T6)"
+  },
+  {
+    "id": "T6_FROST_STAFF@1",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +1 (T6)"
+  },
+  {
+    "id": "T6_FROST_STAFF@2",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +2 (T6)"
+  },
+  {
+    "id": "T6_FROST_STAFF@3",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +3 (T6)"
+  },
+  {
+    "id": "T6_FROST_STAFF@4",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +4 (T6)"
+  },
+  {
+    "id": "T6_ARCANE_STAFF",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff",
+    "tier": 6,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff (T6)"
+  },
+  {
+    "id": "T6_ARCANE_STAFF@1",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +1 (T6)"
+  },
+  {
+    "id": "T6_ARCANE_STAFF@2",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +2 (T6)"
+  },
+  {
+    "id": "T6_ARCANE_STAFF@3",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +3 (T6)"
+  },
+  {
+    "id": "T6_ARCANE_STAFF@4",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +4 (T6)"
+  },
+  {
+    "id": "T7_BOW",
+    "key": "BOW",
+    "name": "Bow",
+    "tier": 7,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Bow (T7)"
+  },
+  {
+    "id": "T7_BOW@1",
+    "key": "BOW",
+    "name": "Bow +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Bow +1 (T7)"
+  },
+  {
+    "id": "T7_BOW@2",
+    "key": "BOW",
+    "name": "Bow +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Bow +2 (T7)"
+  },
+  {
+    "id": "T7_BOW@3",
+    "key": "BOW",
+    "name": "Bow +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Bow +3 (T7)"
+  },
+  {
+    "id": "T7_BOW@4",
+    "key": "BOW",
+    "name": "Bow +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Bow +4 (T7)"
+  },
+  {
+    "id": "T7_CROSSBOW",
+    "key": "CROSSBOW",
+    "name": "Crossbow",
+    "tier": 7,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Crossbow (T7)"
+  },
+  {
+    "id": "T7_CROSSBOW@1",
+    "key": "CROSSBOW",
+    "name": "Crossbow +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Crossbow +1 (T7)"
+  },
+  {
+    "id": "T7_CROSSBOW@2",
+    "key": "CROSSBOW",
+    "name": "Crossbow +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Crossbow +2 (T7)"
+  },
+  {
+    "id": "T7_CROSSBOW@3",
+    "key": "CROSSBOW",
+    "name": "Crossbow +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Crossbow +3 (T7)"
+  },
+  {
+    "id": "T7_CROSSBOW@4",
+    "key": "CROSSBOW",
+    "name": "Crossbow +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Crossbow +4 (T7)"
+  },
+  {
+    "id": "T7_FIRE_STAFF",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff",
+    "tier": 7,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Fire Staff (T7)"
+  },
+  {
+    "id": "T7_FIRE_STAFF@1",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +1 (T7)"
+  },
+  {
+    "id": "T7_FIRE_STAFF@2",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +2 (T7)"
+  },
+  {
+    "id": "T7_FIRE_STAFF@3",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +3 (T7)"
+  },
+  {
+    "id": "T7_FIRE_STAFF@4",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +4 (T7)"
+  },
+  {
+    "id": "T7_FROST_STAFF",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff",
+    "tier": 7,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Frost Staff (T7)"
+  },
+  {
+    "id": "T7_FROST_STAFF@1",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +1 (T7)"
+  },
+  {
+    "id": "T7_FROST_STAFF@2",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +2 (T7)"
+  },
+  {
+    "id": "T7_FROST_STAFF@3",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +3 (T7)"
+  },
+  {
+    "id": "T7_FROST_STAFF@4",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +4 (T7)"
+  },
+  {
+    "id": "T7_ARCANE_STAFF",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff",
+    "tier": 7,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff (T7)"
+  },
+  {
+    "id": "T7_ARCANE_STAFF@1",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +1 (T7)"
+  },
+  {
+    "id": "T7_ARCANE_STAFF@2",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +2 (T7)"
+  },
+  {
+    "id": "T7_ARCANE_STAFF@3",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +3 (T7)"
+  },
+  {
+    "id": "T7_ARCANE_STAFF@4",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +4 (T7)"
+  },
+  {
+    "id": "T8_BOW",
+    "key": "BOW",
+    "name": "Bow",
+    "tier": 8,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Bow (T8)"
+  },
+  {
+    "id": "T8_BOW@1",
+    "key": "BOW",
+    "name": "Bow +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Bow +1 (T8)"
+  },
+  {
+    "id": "T8_BOW@2",
+    "key": "BOW",
+    "name": "Bow +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Bow +2 (T8)"
+  },
+  {
+    "id": "T8_BOW@3",
+    "key": "BOW",
+    "name": "Bow +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Bow +3 (T8)"
+  },
+  {
+    "id": "T8_BOW@4",
+    "key": "BOW",
+    "name": "Bow +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Bow +4 (T8)"
+  },
+  {
+    "id": "T8_CROSSBOW",
+    "key": "CROSSBOW",
+    "name": "Crossbow",
+    "tier": 8,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Crossbow (T8)"
+  },
+  {
+    "id": "T8_CROSSBOW@1",
+    "key": "CROSSBOW",
+    "name": "Crossbow +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Crossbow +1 (T8)"
+  },
+  {
+    "id": "T8_CROSSBOW@2",
+    "key": "CROSSBOW",
+    "name": "Crossbow +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Crossbow +2 (T8)"
+  },
+  {
+    "id": "T8_CROSSBOW@3",
+    "key": "CROSSBOW",
+    "name": "Crossbow +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Crossbow +3 (T8)"
+  },
+  {
+    "id": "T8_CROSSBOW@4",
+    "key": "CROSSBOW",
+    "name": "Crossbow +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Crossbow +4 (T8)"
+  },
+  {
+    "id": "T8_FIRE_STAFF",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff",
+    "tier": 8,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Fire Staff (T8)"
+  },
+  {
+    "id": "T8_FIRE_STAFF@1",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +1 (T8)"
+  },
+  {
+    "id": "T8_FIRE_STAFF@2",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +2 (T8)"
+  },
+  {
+    "id": "T8_FIRE_STAFF@3",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +3 (T8)"
+  },
+  {
+    "id": "T8_FIRE_STAFF@4",
+    "key": "FIRE_STAFF",
+    "name": "Fire Staff +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Fire Staff +4 (T8)"
+  },
+  {
+    "id": "T8_FROST_STAFF",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff",
+    "tier": 8,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Frost Staff (T8)"
+  },
+  {
+    "id": "T8_FROST_STAFF@1",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +1 (T8)"
+  },
+  {
+    "id": "T8_FROST_STAFF@2",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +2 (T8)"
+  },
+  {
+    "id": "T8_FROST_STAFF@3",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +3 (T8)"
+  },
+  {
+    "id": "T8_FROST_STAFF@4",
+    "key": "FROST_STAFF",
+    "name": "Frost Staff +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Frost Staff +4 (T8)"
+  },
+  {
+    "id": "T8_ARCANE_STAFF",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff",
+    "tier": 8,
+    "enchant": 0,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff (T8)"
+  },
+  {
+    "id": "T8_ARCANE_STAFF@1",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +1 (T8)"
+  },
+  {
+    "id": "T8_ARCANE_STAFF@2",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +2 (T8)"
+  },
+  {
+    "id": "T8_ARCANE_STAFF@3",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +3 (T8)"
+  },
+  {
+    "id": "T8_ARCANE_STAFF@4",
+    "key": "ARCANE_STAFF",
+    "name": "Arcane Staff +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "RANGED",
+    "prettyName": "Arcane Staff +4 (T8)"
+  },
+  {
+    "id": "T3_CLOTH_HELM",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm",
+    "tier": 3,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm (T3)"
+  },
+  {
+    "id": "T3_CLOTH_HELM@1",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +1 (T3)"
+  },
+  {
+    "id": "T3_CLOTH_HELM@2",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +2 (T3)"
+  },
+  {
+    "id": "T3_CLOTH_HELM@3",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +3 (T3)"
+  },
+  {
+    "id": "T3_CLOTH_HELM@4",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +4 (T3)"
+  },
+  {
+    "id": "T3_CLOTH_ROBE",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe",
+    "tier": 3,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe (T3)"
+  },
+  {
+    "id": "T3_CLOTH_ROBE@1",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +1 (T3)"
+  },
+  {
+    "id": "T3_CLOTH_ROBE@2",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +2 (T3)"
+  },
+  {
+    "id": "T3_CLOTH_ROBE@3",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +3 (T3)"
+  },
+  {
+    "id": "T3_CLOTH_ROBE@4",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +4 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_HELM",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm",
+    "tier": 3,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm (T3)"
+  },
+  {
+    "id": "T3_LEATHER_HELM@1",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +1 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_HELM@2",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +2 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_HELM@3",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +3 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_HELM@4",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +4 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_ARMOR",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor",
+    "tier": 3,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor (T3)"
+  },
+  {
+    "id": "T3_LEATHER_ARMOR@1",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +1 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_ARMOR@2",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +2 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_ARMOR@3",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +3 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_ARMOR@4",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +4 (T3)"
+  },
+  {
+    "id": "T3_PLATE_HELM",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm",
+    "tier": 3,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm (T3)"
+  },
+  {
+    "id": "T3_PLATE_HELM@1",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +1 (T3)"
+  },
+  {
+    "id": "T3_PLATE_HELM@2",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +2 (T3)"
+  },
+  {
+    "id": "T3_PLATE_HELM@3",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +3 (T3)"
+  },
+  {
+    "id": "T3_PLATE_HELM@4",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +4 (T3)"
+  },
+  {
+    "id": "T3_PLATE_ARMOR",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor",
+    "tier": 3,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor (T3)"
+  },
+  {
+    "id": "T3_PLATE_ARMOR@1",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +1 (T3)"
+  },
+  {
+    "id": "T3_PLATE_ARMOR@2",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +2 (T3)"
+  },
+  {
+    "id": "T3_PLATE_ARMOR@3",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +3 (T3)"
+  },
+  {
+    "id": "T3_PLATE_ARMOR@4",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +4 (T3)"
+  },
+  {
+    "id": "T4_CLOTH_HELM",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm",
+    "tier": 4,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm (T4)"
+  },
+  {
+    "id": "T4_CLOTH_HELM@1",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +1 (T4)"
+  },
+  {
+    "id": "T4_CLOTH_HELM@2",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +2 (T4)"
+  },
+  {
+    "id": "T4_CLOTH_HELM@3",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +3 (T4)"
+  },
+  {
+    "id": "T4_CLOTH_HELM@4",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +4 (T4)"
+  },
+  {
+    "id": "T4_CLOTH_ROBE",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe",
+    "tier": 4,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe (T4)"
+  },
+  {
+    "id": "T4_CLOTH_ROBE@1",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +1 (T4)"
+  },
+  {
+    "id": "T4_CLOTH_ROBE@2",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +2 (T4)"
+  },
+  {
+    "id": "T4_CLOTH_ROBE@3",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +3 (T4)"
+  },
+  {
+    "id": "T4_CLOTH_ROBE@4",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +4 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_HELM",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm",
+    "tier": 4,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm (T4)"
+  },
+  {
+    "id": "T4_LEATHER_HELM@1",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +1 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_HELM@2",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +2 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_HELM@3",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +3 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_HELM@4",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +4 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_ARMOR",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor",
+    "tier": 4,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor (T4)"
+  },
+  {
+    "id": "T4_LEATHER_ARMOR@1",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +1 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_ARMOR@2",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +2 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_ARMOR@3",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +3 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_ARMOR@4",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +4 (T4)"
+  },
+  {
+    "id": "T4_PLATE_HELM",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm",
+    "tier": 4,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm (T4)"
+  },
+  {
+    "id": "T4_PLATE_HELM@1",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +1 (T4)"
+  },
+  {
+    "id": "T4_PLATE_HELM@2",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +2 (T4)"
+  },
+  {
+    "id": "T4_PLATE_HELM@3",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +3 (T4)"
+  },
+  {
+    "id": "T4_PLATE_HELM@4",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +4 (T4)"
+  },
+  {
+    "id": "T4_PLATE_ARMOR",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor",
+    "tier": 4,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor (T4)"
+  },
+  {
+    "id": "T4_PLATE_ARMOR@1",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +1 (T4)"
+  },
+  {
+    "id": "T4_PLATE_ARMOR@2",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +2 (T4)"
+  },
+  {
+    "id": "T4_PLATE_ARMOR@3",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +3 (T4)"
+  },
+  {
+    "id": "T4_PLATE_ARMOR@4",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +4 (T4)"
+  },
+  {
+    "id": "T5_CLOTH_HELM",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm",
+    "tier": 5,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm (T5)"
+  },
+  {
+    "id": "T5_CLOTH_HELM@1",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +1 (T5)"
+  },
+  {
+    "id": "T5_CLOTH_HELM@2",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +2 (T5)"
+  },
+  {
+    "id": "T5_CLOTH_HELM@3",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +3 (T5)"
+  },
+  {
+    "id": "T5_CLOTH_HELM@4",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +4 (T5)"
+  },
+  {
+    "id": "T5_CLOTH_ROBE",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe",
+    "tier": 5,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe (T5)"
+  },
+  {
+    "id": "T5_CLOTH_ROBE@1",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +1 (T5)"
+  },
+  {
+    "id": "T5_CLOTH_ROBE@2",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +2 (T5)"
+  },
+  {
+    "id": "T5_CLOTH_ROBE@3",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +3 (T5)"
+  },
+  {
+    "id": "T5_CLOTH_ROBE@4",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +4 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_HELM",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm",
+    "tier": 5,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm (T5)"
+  },
+  {
+    "id": "T5_LEATHER_HELM@1",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +1 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_HELM@2",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +2 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_HELM@3",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +3 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_HELM@4",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +4 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_ARMOR",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor",
+    "tier": 5,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor (T5)"
+  },
+  {
+    "id": "T5_LEATHER_ARMOR@1",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +1 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_ARMOR@2",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +2 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_ARMOR@3",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +3 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_ARMOR@4",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +4 (T5)"
+  },
+  {
+    "id": "T5_PLATE_HELM",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm",
+    "tier": 5,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm (T5)"
+  },
+  {
+    "id": "T5_PLATE_HELM@1",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +1 (T5)"
+  },
+  {
+    "id": "T5_PLATE_HELM@2",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +2 (T5)"
+  },
+  {
+    "id": "T5_PLATE_HELM@3",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +3 (T5)"
+  },
+  {
+    "id": "T5_PLATE_HELM@4",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +4 (T5)"
+  },
+  {
+    "id": "T5_PLATE_ARMOR",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor",
+    "tier": 5,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor (T5)"
+  },
+  {
+    "id": "T5_PLATE_ARMOR@1",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +1 (T5)"
+  },
+  {
+    "id": "T5_PLATE_ARMOR@2",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +2 (T5)"
+  },
+  {
+    "id": "T5_PLATE_ARMOR@3",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +3 (T5)"
+  },
+  {
+    "id": "T5_PLATE_ARMOR@4",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +4 (T5)"
+  },
+  {
+    "id": "T6_CLOTH_HELM",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm",
+    "tier": 6,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm (T6)"
+  },
+  {
+    "id": "T6_CLOTH_HELM@1",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +1 (T6)"
+  },
+  {
+    "id": "T6_CLOTH_HELM@2",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +2 (T6)"
+  },
+  {
+    "id": "T6_CLOTH_HELM@3",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +3 (T6)"
+  },
+  {
+    "id": "T6_CLOTH_HELM@4",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +4 (T6)"
+  },
+  {
+    "id": "T6_CLOTH_ROBE",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe",
+    "tier": 6,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe (T6)"
+  },
+  {
+    "id": "T6_CLOTH_ROBE@1",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +1 (T6)"
+  },
+  {
+    "id": "T6_CLOTH_ROBE@2",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +2 (T6)"
+  },
+  {
+    "id": "T6_CLOTH_ROBE@3",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +3 (T6)"
+  },
+  {
+    "id": "T6_CLOTH_ROBE@4",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +4 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_HELM",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm",
+    "tier": 6,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm (T6)"
+  },
+  {
+    "id": "T6_LEATHER_HELM@1",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +1 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_HELM@2",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +2 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_HELM@3",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +3 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_HELM@4",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +4 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_ARMOR",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor",
+    "tier": 6,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor (T6)"
+  },
+  {
+    "id": "T6_LEATHER_ARMOR@1",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +1 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_ARMOR@2",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +2 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_ARMOR@3",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +3 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_ARMOR@4",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +4 (T6)"
+  },
+  {
+    "id": "T6_PLATE_HELM",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm",
+    "tier": 6,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm (T6)"
+  },
+  {
+    "id": "T6_PLATE_HELM@1",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +1 (T6)"
+  },
+  {
+    "id": "T6_PLATE_HELM@2",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +2 (T6)"
+  },
+  {
+    "id": "T6_PLATE_HELM@3",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +3 (T6)"
+  },
+  {
+    "id": "T6_PLATE_HELM@4",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +4 (T6)"
+  },
+  {
+    "id": "T6_PLATE_ARMOR",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor",
+    "tier": 6,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor (T6)"
+  },
+  {
+    "id": "T6_PLATE_ARMOR@1",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +1 (T6)"
+  },
+  {
+    "id": "T6_PLATE_ARMOR@2",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +2 (T6)"
+  },
+  {
+    "id": "T6_PLATE_ARMOR@3",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +3 (T6)"
+  },
+  {
+    "id": "T6_PLATE_ARMOR@4",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +4 (T6)"
+  },
+  {
+    "id": "T7_CLOTH_HELM",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm",
+    "tier": 7,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm (T7)"
+  },
+  {
+    "id": "T7_CLOTH_HELM@1",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +1 (T7)"
+  },
+  {
+    "id": "T7_CLOTH_HELM@2",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +2 (T7)"
+  },
+  {
+    "id": "T7_CLOTH_HELM@3",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +3 (T7)"
+  },
+  {
+    "id": "T7_CLOTH_HELM@4",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +4 (T7)"
+  },
+  {
+    "id": "T7_CLOTH_ROBE",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe",
+    "tier": 7,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe (T7)"
+  },
+  {
+    "id": "T7_CLOTH_ROBE@1",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +1 (T7)"
+  },
+  {
+    "id": "T7_CLOTH_ROBE@2",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +2 (T7)"
+  },
+  {
+    "id": "T7_CLOTH_ROBE@3",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +3 (T7)"
+  },
+  {
+    "id": "T7_CLOTH_ROBE@4",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +4 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_HELM",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm",
+    "tier": 7,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm (T7)"
+  },
+  {
+    "id": "T7_LEATHER_HELM@1",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +1 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_HELM@2",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +2 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_HELM@3",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +3 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_HELM@4",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +4 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_ARMOR",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor",
+    "tier": 7,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor (T7)"
+  },
+  {
+    "id": "T7_LEATHER_ARMOR@1",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +1 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_ARMOR@2",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +2 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_ARMOR@3",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +3 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_ARMOR@4",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +4 (T7)"
+  },
+  {
+    "id": "T7_PLATE_HELM",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm",
+    "tier": 7,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm (T7)"
+  },
+  {
+    "id": "T7_PLATE_HELM@1",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +1 (T7)"
+  },
+  {
+    "id": "T7_PLATE_HELM@2",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +2 (T7)"
+  },
+  {
+    "id": "T7_PLATE_HELM@3",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +3 (T7)"
+  },
+  {
+    "id": "T7_PLATE_HELM@4",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +4 (T7)"
+  },
+  {
+    "id": "T7_PLATE_ARMOR",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor",
+    "tier": 7,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor (T7)"
+  },
+  {
+    "id": "T7_PLATE_ARMOR@1",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +1 (T7)"
+  },
+  {
+    "id": "T7_PLATE_ARMOR@2",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +2 (T7)"
+  },
+  {
+    "id": "T7_PLATE_ARMOR@3",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +3 (T7)"
+  },
+  {
+    "id": "T7_PLATE_ARMOR@4",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +4 (T7)"
+  },
+  {
+    "id": "T8_CLOTH_HELM",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm",
+    "tier": 8,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm (T8)"
+  },
+  {
+    "id": "T8_CLOTH_HELM@1",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +1 (T8)"
+  },
+  {
+    "id": "T8_CLOTH_HELM@2",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +2 (T8)"
+  },
+  {
+    "id": "T8_CLOTH_HELM@3",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +3 (T8)"
+  },
+  {
+    "id": "T8_CLOTH_HELM@4",
+    "key": "CLOTH_HELM",
+    "name": "Cloth Helm +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Helm +4 (T8)"
+  },
+  {
+    "id": "T8_CLOTH_ROBE",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe",
+    "tier": 8,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe (T8)"
+  },
+  {
+    "id": "T8_CLOTH_ROBE@1",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +1 (T8)"
+  },
+  {
+    "id": "T8_CLOTH_ROBE@2",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +2 (T8)"
+  },
+  {
+    "id": "T8_CLOTH_ROBE@3",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +3 (T8)"
+  },
+  {
+    "id": "T8_CLOTH_ROBE@4",
+    "key": "CLOTH_ROBE",
+    "name": "Cloth Robe +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Cloth Robe +4 (T8)"
+  },
+  {
+    "id": "T8_LEATHER_HELM",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm",
+    "tier": 8,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm (T8)"
+  },
+  {
+    "id": "T8_LEATHER_HELM@1",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +1 (T8)"
+  },
+  {
+    "id": "T8_LEATHER_HELM@2",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +2 (T8)"
+  },
+  {
+    "id": "T8_LEATHER_HELM@3",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +3 (T8)"
+  },
+  {
+    "id": "T8_LEATHER_HELM@4",
+    "key": "LEATHER_HELM",
+    "name": "Leather Helm +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Helm +4 (T8)"
+  },
+  {
+    "id": "T8_LEATHER_ARMOR",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor",
+    "tier": 8,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor (T8)"
+  },
+  {
+    "id": "T8_LEATHER_ARMOR@1",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +1 (T8)"
+  },
+  {
+    "id": "T8_LEATHER_ARMOR@2",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +2 (T8)"
+  },
+  {
+    "id": "T8_LEATHER_ARMOR@3",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +3 (T8)"
+  },
+  {
+    "id": "T8_LEATHER_ARMOR@4",
+    "key": "LEATHER_ARMOR",
+    "name": "Leather Armor +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Leather Armor +4 (T8)"
+  },
+  {
+    "id": "T8_PLATE_HELM",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm",
+    "tier": 8,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm (T8)"
+  },
+  {
+    "id": "T8_PLATE_HELM@1",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +1 (T8)"
+  },
+  {
+    "id": "T8_PLATE_HELM@2",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +2 (T8)"
+  },
+  {
+    "id": "T8_PLATE_HELM@3",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +3 (T8)"
+  },
+  {
+    "id": "T8_PLATE_HELM@4",
+    "key": "PLATE_HELM",
+    "name": "Plate Helm +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Helm +4 (T8)"
+  },
+  {
+    "id": "T8_PLATE_ARMOR",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor",
+    "tier": 8,
+    "enchant": 0,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor (T8)"
+  },
+  {
+    "id": "T8_PLATE_ARMOR@1",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +1",
+    "tier": 8,
+    "enchant": 1,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +1 (T8)"
+  },
+  {
+    "id": "T8_PLATE_ARMOR@2",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +2",
+    "tier": 8,
+    "enchant": 2,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +2 (T8)"
+  },
+  {
+    "id": "T8_PLATE_ARMOR@3",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +3",
+    "tier": 8,
+    "enchant": 3,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +3 (T8)"
+  },
+  {
+    "id": "T8_PLATE_ARMOR@4",
+    "key": "PLATE_ARMOR",
+    "name": "Plate Armor +4",
+    "tier": 8,
+    "enchant": 4,
+    "category": "ARMOR",
+    "prettyName": "Plate Armor +4 (T8)"
+  },
+  {
+    "id": "T3_BOW_BASIC",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow",
+    "tier": 3,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow (T3)"
+  },
+  {
+    "id": "T3_BOW_BASIC@1",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +1 (T3)"
+  },
+  {
+    "id": "T3_BOW_BASIC@2",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +2 (T3)"
+  },
+  {
+    "id": "T3_BOW_BASIC@3",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +3 (T3)"
+  },
+  {
+    "id": "T3_BOW_BASIC@4",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +4 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_BOOTS",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots",
+    "tier": 3,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots (T3)"
+  },
+  {
+    "id": "T3_LEATHER_BOOTS@1",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +1 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_BOOTS@2",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +2 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_BOOTS@3",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +3 (T3)"
+  },
+  {
+    "id": "T3_LEATHER_BOOTS@4",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +4 (T3)"
+  },
+  {
+    "id": "T3_PLANKS_BOARD",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks",
+    "tier": 3,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks (T3)"
+  },
+  {
+    "id": "T3_PLANKS_BOARD@1",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +1",
+    "tier": 3,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +1 (T3)"
+  },
+  {
+    "id": "T3_PLANKS_BOARD@2",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +2",
+    "tier": 3,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +2 (T3)"
+  },
+  {
+    "id": "T3_PLANKS_BOARD@3",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +3",
+    "tier": 3,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +3 (T3)"
+  },
+  {
+    "id": "T3_PLANKS_BOARD@4",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +4",
+    "tier": 3,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +4 (T3)"
+  },
+  {
+    "id": "T4_BOW_BASIC",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow",
+    "tier": 4,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow (T4)"
+  },
+  {
+    "id": "T4_BOW_BASIC@1",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +1 (T4)"
+  },
+  {
+    "id": "T4_BOW_BASIC@2",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +2 (T4)"
+  },
+  {
+    "id": "T4_BOW_BASIC@3",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +3 (T4)"
+  },
+  {
+    "id": "T4_BOW_BASIC@4",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +4 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_BOOTS",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots",
+    "tier": 4,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots (T4)"
+  },
+  {
+    "id": "T4_LEATHER_BOOTS@1",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +1 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_BOOTS@2",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +2 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_BOOTS@3",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +3 (T4)"
+  },
+  {
+    "id": "T4_LEATHER_BOOTS@4",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +4 (T4)"
+  },
+  {
+    "id": "T4_PLANKS_BOARD",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks",
+    "tier": 4,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks (T4)"
+  },
+  {
+    "id": "T4_PLANKS_BOARD@1",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +1",
+    "tier": 4,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +1 (T4)"
+  },
+  {
+    "id": "T4_PLANKS_BOARD@2",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +2",
+    "tier": 4,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +2 (T4)"
+  },
+  {
+    "id": "T4_PLANKS_BOARD@3",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +3",
+    "tier": 4,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +3 (T4)"
+  },
+  {
+    "id": "T4_PLANKS_BOARD@4",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +4",
+    "tier": 4,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +4 (T4)"
+  },
+  {
+    "id": "T5_BOW_BASIC",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow",
+    "tier": 5,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow (T5)"
+  },
+  {
+    "id": "T5_BOW_BASIC@1",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +1 (T5)"
+  },
+  {
+    "id": "T5_BOW_BASIC@2",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +2 (T5)"
+  },
+  {
+    "id": "T5_BOW_BASIC@3",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +3 (T5)"
+  },
+  {
+    "id": "T5_BOW_BASIC@4",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +4 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_BOOTS",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots",
+    "tier": 5,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots (T5)"
+  },
+  {
+    "id": "T5_LEATHER_BOOTS@1",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +1 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_BOOTS@2",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +2 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_BOOTS@3",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +3 (T5)"
+  },
+  {
+    "id": "T5_LEATHER_BOOTS@4",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +4 (T5)"
+  },
+  {
+    "id": "T5_PLANKS_BOARD",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks",
+    "tier": 5,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks (T5)"
+  },
+  {
+    "id": "T5_PLANKS_BOARD@1",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +1",
+    "tier": 5,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +1 (T5)"
+  },
+  {
+    "id": "T5_PLANKS_BOARD@2",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +2",
+    "tier": 5,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +2 (T5)"
+  },
+  {
+    "id": "T5_PLANKS_BOARD@3",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +3",
+    "tier": 5,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +3 (T5)"
+  },
+  {
+    "id": "T5_PLANKS_BOARD@4",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +4",
+    "tier": 5,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +4 (T5)"
+  },
+  {
+    "id": "T6_BOW_BASIC",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow",
+    "tier": 6,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow (T6)"
+  },
+  {
+    "id": "T6_BOW_BASIC@1",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +1 (T6)"
+  },
+  {
+    "id": "T6_BOW_BASIC@2",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +2 (T6)"
+  },
+  {
+    "id": "T6_BOW_BASIC@3",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +3 (T6)"
+  },
+  {
+    "id": "T6_BOW_BASIC@4",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +4 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_BOOTS",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots",
+    "tier": 6,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots (T6)"
+  },
+  {
+    "id": "T6_LEATHER_BOOTS@1",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +1 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_BOOTS@2",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +2 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_BOOTS@3",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +3 (T6)"
+  },
+  {
+    "id": "T6_LEATHER_BOOTS@4",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +4 (T6)"
+  },
+  {
+    "id": "T6_PLANKS_BOARD",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks",
+    "tier": 6,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks (T6)"
+  },
+  {
+    "id": "T6_PLANKS_BOARD@1",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +1",
+    "tier": 6,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +1 (T6)"
+  },
+  {
+    "id": "T6_PLANKS_BOARD@2",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +2",
+    "tier": 6,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +2 (T6)"
+  },
+  {
+    "id": "T6_PLANKS_BOARD@3",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +3",
+    "tier": 6,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +3 (T6)"
+  },
+  {
+    "id": "T6_PLANKS_BOARD@4",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +4",
+    "tier": 6,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +4 (T6)"
+  },
+  {
+    "id": "T7_BOW_BASIC",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow",
+    "tier": 7,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow (T7)"
+  },
+  {
+    "id": "T7_BOW_BASIC@1",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +1 (T7)"
+  },
+  {
+    "id": "T7_BOW_BASIC@2",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +2 (T7)"
+  },
+  {
+    "id": "T7_BOW_BASIC@3",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +3 (T7)"
+  },
+  {
+    "id": "T7_BOW_BASIC@4",
+    "key": "BOW_BASIC",
+    "name": "Basic Bow +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Basic Bow +4 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_BOOTS",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots",
+    "tier": 7,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots (T7)"
+  },
+  {
+    "id": "T7_LEATHER_BOOTS@1",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +1 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_BOOTS@2",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +2 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_BOOTS@3",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +3 (T7)"
+  },
+  {
+    "id": "T7_LEATHER_BOOTS@4",
+    "key": "LEATHER_BOOTS",
+    "name": "Leather Boots +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Leather Boots +4 (T7)"
+  },
+  {
+    "id": "T7_PLANKS_BOARD",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks",
+    "tier": 7,
+    "enchant": 0,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks (T7)"
+  },
+  {
+    "id": "T7_PLANKS_BOARD@1",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +1",
+    "tier": 7,
+    "enchant": 1,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +1 (T7)"
+  },
+  {
+    "id": "T7_PLANKS_BOARD@2",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +2",
+    "tier": 7,
+    "enchant": 2,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +2 (T7)"
+  },
+  {
+    "id": "T7_PLANKS_BOARD@3",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +3",
+    "tier": 7,
+    "enchant": 3,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +3 (T7)"
+  },
+  {
+    "id": "T7_PLANKS_BOARD@4",
+    "key": "PLANKS_BOARD",
+    "name": "Board Planks +4",
+    "tier": 7,
+    "enchant": 4,
+    "category": "CRAFTED",
+    "prettyName": "Board Planks +4 (T7)"
+  }
+]
